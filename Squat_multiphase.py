@@ -1,3 +1,8 @@
+
+# version biorbd : 1.8.4
+# version bioptim : 2.2.0
+# version bioviz : 2.1.5 
+
 import biorbd_casadi as biorbd
 import bioviz
 import numpy as np
